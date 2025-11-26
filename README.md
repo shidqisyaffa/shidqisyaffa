@@ -39,13 +39,19 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-## 📊 GitHub Stats
+## ⚙️ Statistik GitHub Saya
 
 <div align="center">
   
+  ### Tampilan Statistik Utama (dari GitHub Readme Stats)
+  
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shidqisyaffa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
+  ### Bahasa yang Paling Sering Digunakan (dari GitHub Readme Stats)
+  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shidqisyaffa&layout=compact&theme=tokyonight&hide_border=true)
+  
+  ### Statistik Streak Kontribusi (dari GitHub Streak Stats)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shidqisyaffa&theme=tokyonight&hide_border=true)
 
