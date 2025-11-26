@@ -41,6 +41,13 @@
 
 ## ⚙️ Statistik GitHub Saya
 
+### Statistik Utama GitHub
+<div align="center">
+  
+  ![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=shidqisyaffa&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats-eight-theta.vercel.app/api?username=shidqisyaffa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true))
+  
+</div>
+
 ### Bahasa Paling Sering Digunakan
 <div align="center">
   
