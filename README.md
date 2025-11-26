@@ -51,7 +51,7 @@
 ### Bahasa Paling Sering Digunakan
 <div align="center">
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shidqisyaffa&layout=compact&theme=tokyonight&hide_border=true)
+  ![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=shidqisyaffa&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shidqisyaffa&layout=compact&theme=radical&hide=jupyter%20notebook,purebasic%22%20alt=%22Languages))
   
 </div>
 
