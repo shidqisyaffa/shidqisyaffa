@@ -58,7 +58,7 @@
 ### Statistik Streak Kontribusi
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shidqisyaffa&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=shidqisyaffa&theme=tokyonight&hide_border=false)
 
 </div>
 ## 🔥 Featured Projects
