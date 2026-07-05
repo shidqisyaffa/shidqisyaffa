@@ -83,6 +83,16 @@ Here are the projects that highlight my engineering focus and problem-solving ap
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP%20%2F%20Sastrawi-000000?style=flat-square&logo=scikit-learn&logoColor=white)
 
+#### Generative AI & LLM Orchestration
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM%20Studio-000000?style=flat-square&logo=lmstudio&logoColor=white)
+![Chainlit](https://img.shields.io/badge/Chainlit-F25F5C?style=flat-square&logo=chainlit&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+#### Vector Databases & Search Embeddings
+![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=flat-square&logo=qdrant&logoColor=FF4D4D)
+![FAISS](https://img.shields.io/badge/FAISS-7B1FA2?style=flat-square&logo=meta&logoColor=white)
+
 #### Systems & Concurrency
 ![Sockets](https://img.shields.io/badge/Socket%20Programming-0052CC?style=flat-square&logo=data-server&logoColor=white)
 ![OpenMP](https://img.shields.io/badge/OpenMP%20Parallel-008080?style=flat-square&logo=cplusplus&logoColor=white)
@@ -95,11 +105,13 @@ Here are the projects that highlight my engineering focus and problem-solving ap
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4326?style=flat-square&logo=codeigniter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-000000?style=flat-square&logo=python&logoColor=white)
 
 #### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github-actions&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20CI-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
